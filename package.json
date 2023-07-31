@@ -8,8 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "big-integer": "^1.6.51",
     "core-js": "^3.8.3",
-    "h3-js": "^4.1.0",
+    "element-plus": "^2.3.8",
+    "h3-js": "3",
     "vue": "^3.2.13"
   },
   "devDependencies": {
